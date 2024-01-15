@@ -1,0 +1,13 @@
+{
+    "name": "random-data-generator",
+    "version": "1.0.0",
+    "main": "index.js",
+    "description": "A simple library for generating random data",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["random", "data", "generator"],
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
